@@ -7,3 +7,5 @@ def welcome():
 welcome()
 welcome()
 welcome()
+# indentation is used in python using tab key
+# now just by defining function once you can print  it as many times as you want
